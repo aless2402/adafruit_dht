@@ -36,5 +36,4 @@ while True:
         raise error
     except KeyboardInterrupt:
         dhtDevice.exit()
-        
-    sleep(5)
+         sleep(5)
