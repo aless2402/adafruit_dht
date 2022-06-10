@@ -1,4 +1,3 @@
-# adafruit_dht
 
 import time
 import board
